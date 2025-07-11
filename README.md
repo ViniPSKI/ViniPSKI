@@ -1,16 +1,39 @@
-## Olá, me chamo Vinicius.
+# Olá, me chamo Vinicius! 👋
 
-<!--
-**ViniPSKI/ViniPSKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend | 
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏻‍🎓 Estudante de Engenharia de Software - UTFPR
+- 🖥️ Desenvolvedor Backend e Desktop
+- 💡 Aspirante a desenvolvedor Fullstack e apaixonado por tecnologia e desenvolvimento Backend
+
+## 💻 Minhas Skills
+
+✨ **Desenvolvimento:**
+-   **Backend:** `Java` (Spring Boot), `Python` (Django, Flask, FastAPI)
+-   **Frontend:** `JavaScript`, `HTML`, `CSS` (Tailwind CSS), `Typescript` (React, Angular, Next.js)
+-   **Mobile:** `React Native` (Expo), `Java`
+-   **Desktop:** `VB6`, `C#`
+
+📊 **Banco de Dados:**
+-   `PostgreSQL`, `MySQL`, `MongoDB`, `Firebase`
+
+☁️ **Cloud & DevOps:**
+-   `AWS` (EC2, S3, RDS), `Docker`, `Git`, `CI/CD`
+
+📨 **Serviços de Mensageria:**
+-   `RabbitMQ`
+
+🧪 **Testes:**
+-   `Robot Framework`, `Selenium`, `JUnit`
+
+🛠️ **Ferramentas:**
+-   `VS Code`, `Jira`, `Postman`
+
+---
+
+## 🤝 Meus contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link-do-seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinix464@gmail.com)
